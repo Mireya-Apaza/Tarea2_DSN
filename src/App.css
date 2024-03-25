@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+/* Añade un margen inferior a los divs para crear espacio entre ellos */
+div {
+  margin-bottom: 10px;
+}
+
+/* Aumenta el ancho de los campos de entrada */
+input[type="text"], input[type="number"] {
+  width: 100%;
+}
+
+/* Aumenta el tamaño del botón y añade un margen superior para crear espacio entre el botón y el div anterior */
+button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+}
+

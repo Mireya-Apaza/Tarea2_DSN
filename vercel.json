@@ -1,0 +1,7 @@
+{
+    "functions": {
+      "index.html": {
+        "runtime": "vercel-php@0.7.0"
+      }
+    }
+}
